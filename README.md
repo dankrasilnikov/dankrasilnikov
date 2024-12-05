@@ -5,12 +5,21 @@
 <h3 align="center">Freelance FullStack Developer | IoT & Robotics Enthusiast</h3>
 
 <p align="center">
-    <em>The future will belong to those who believe in the beauty of their dreams.</em>
+    <em>"The future will belong to those who believe in the beauty of their dreams."</em>
 </p>
 
 ---
 
-<h2 align='left'>📅 Let`s have a call:</h2>
+<h2 align='left'>Key Points:</h2>
+<ul>
+    <li>🌟 Open for freelance orders</li>
+    <li>🇳🇱 Open for job opportunities in the Netherlands</li>
+    <li>🤖 Passionate about Robotics and IoT</li>
+</ul>
+
+---
+
+<h2 align='left'>📅 Let’s Have a Call:</h2>
 <a target="_blank" href='https://calendly.com/krasilnikov-orchid/30min'>
 <img src="https://img.shields.io/badge/Calendly-%230077B5.svg?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
 </a>
@@ -22,7 +31,7 @@
 </p>
 
 <p>
-    I thrive on building complex systems and thinking about big ideas. My ultimate dream is to establish my own robotics company where technology meets creativity to shape a better future for all.
+    I thrive on building complex systems and thinking about big ideas. My ultimate dream is to establish my own robotics company, where technology meets creativity to shape a better future for all.
 </p>
 
 ---
@@ -56,18 +65,18 @@
 
 ---
 
-<h3>My Portfolio:</h3>
+<h3>🌟 My Portfolio:</h3>
 <ul>
-    <li><a target="_blank" href="https://terra.do">Terra.do</a> - climate education platform</li>
-    <li><a target="_blank" href="https://clipflip.video">ClipFlip</a> - video marketing SaaS</li>
+    <li><a target="_blank" href="https://terra.do">Terra.do</a> - Climate education platform</li>
+    <li><a target="_blank" href="https://clipflip.video">ClipFlip</a> - Video marketing SaaS</li>
     <li><a target="_blank" href="https://mobioffice.io">Mobioffice</a> - Business solutions SaaS</li>
     <li><a target="_blank" href="https://kgirdharlal.com">Kgirdharlal</a> - Jewelry e-commerce store</li>
 </ul>
 
-<h3>My Featured Projects</h3>
+<h3>🚀 Featured Projects:</h3>
 <ul>
     <li>Meds Recognition App</li>
-    <li>Electronics education platform</li>
+    <li>Electronics Education Platform</li>
 </ul>
 
 ---
@@ -78,7 +87,7 @@
 
 ---
 
-<h2 align='left'>🌐 Connect with me:</h2>
+<h2 align='left'>🌐 Connect With Me:</h2>
 <p>
     <a target="_blank" href="https://www.linkedin.com/in/daniil-krasilnikov/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -94,11 +103,6 @@
     </a>
 </p>
 
-<h2 align='left'>📅 Schedule a meeting:</h2>
-<a target="_blank" href='https://calendly.com/krasilnikov-orchid/30min'>
-<img src="https://img.shields.io/badge/Calendly-%230077B5.svg?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
-</a>
-
 ---
 
 <p align="center">
@@ -111,4 +115,8 @@
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dankrasilnikov&theme=nord_dark" alt="GitHub Profile Summary">
 </p>
-<a href="https://wakatime.com/@1f33e9fd-9122-4b16-b7c9-a22a9284d624"><img src="https://wakatime.com/badge/user/1f33e9fd-9122-4b16-b7c9-a22a9284d624.svg" alt="Total time coded since Apr 2 2022" /></a>
+<p align="center">
+    <a href="https://wakatime.com/@1f33e9fd-9122-4b16-b7c9-a22a9284d624">
+        <img src="https://wakatime.com/badge/user/1f33e9fd-9122-4b16-b7c9-a22a9284d624.svg" alt="Total time coded since Apr 2 2022" />
+    </a>
+</p>
