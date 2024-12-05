@@ -5,8 +5,15 @@
 <h3 align="center">Freelance FullStack Developer | IoT & Robotics Enthusiast</h3>
 
 <p align="center">
-    <em>Creating innovative solutions that connect technology with purpose</em>
+    <em>The future will belong to those who believe in the beauty of their dreams.</em>
 </p>
+
+---
+
+<h2 align='left'>📅 Let`s have a call:</h2>
+<a target="_blank" href='https://calendly.com/krasilnikov-orchid/30min'>
+<img src="https://img.shields.io/badge/Calendly-%230077B5.svg?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
+</a>
 
 ---
 
