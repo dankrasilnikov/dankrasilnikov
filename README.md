@@ -13,8 +13,7 @@
 <a target="_blank" href="https://web.telegram.org/k/#@d_karas">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a target="_blank" href="https://www.instagram.com/dan_krasilnikov/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-<h2 align='left'>Schedule a meeting:  <a target="_blank" href='https://calendly.com/krasilnikov-orchid/30min'><button style='background: #0069ff;box-shadow:none;outline:none;border: none;border-radius:16px;'><p style='font-weight: 600;font-size: 24px;color:white;padding: 0 24px;'>Calendly</p></button></a>
-</h2>
+<h2 align='left'>Schedule a meeting:  <a target="_blank" href='https://calendly.com/krasilnikov-orchid/30min'><p>Calendly</p></a></h2>
 
 
 
