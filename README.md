@@ -115,8 +115,4 @@
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dankrasilnikov&theme=nord_dark" alt="GitHub Profile Summary">
 </p>
-<p align="center">
-    <a href="https://wakatime.com/@1f33e9fd-9122-4b16-b7c9-a22a9284d624">
-        <img src="https://wakatime.com/badge/user/1f33e9fd-9122-4b16-b7c9-a22a9284d624.svg" alt="Total time coded since Apr 2 2022" />
-    </a>
-</p>
+
