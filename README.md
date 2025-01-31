@@ -68,7 +68,7 @@
 <h3>🌟 My Portfolio:</h3>
 <ul>
     <li><a target="_blank" href="https://terra.do">Terra.do</a> - Climate education platform</li>
-    <li><a target="_blank" href="https://clipflip.video">ClipFlip</a> - Video marketing SaaS</li>
+<!--     <li><a target="_blank" href="https://clipflip.video">ClipFlip</a> - Video marketing SaaS</li> -->
     <li><a target="_blank" href="https://mobioffice.io">Mobioffice</a> - Business solutions SaaS</li>
     <li><a target="_blank" href="https://kgirdharlal.com">Kgirdharlal</a> - Jewelry e-commerce store</li>
 </ul>
