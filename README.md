@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://krasilnikov.info" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend / FullStack Developer | IoT & Robotics Enthusiast</h3>
+<h3 align="center">Frontend Engineer | IoT & Robotics Enthusiast</h3>
 
 <p align="center">
     <em>"The future will belong to those who believe in the beauty of their dreams."</em>
