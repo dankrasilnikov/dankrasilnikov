@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://krasilnikov.info" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend Engineer | IoT & Robotics Enthusiast</h3>
+<h3 align="center">Software Engineer | IoT & Robotics Enthusiast</h3>
 
 <p align="center">
     <em>"The future will belong to those who believe in the beauty of their dreams."</em>
@@ -13,8 +13,8 @@
 <h2 align='left'>Key Points:</h2>
 <ul>
     <li>🌟 Open for freelance orders</li>
-    <li>🇳🇱 Open for job opportunities in the Netherlands</li>
-    <li>🤖 Passionate about Robotics and IoT</li>
+    <li>🇳🇱 Open for job opportunities in the Netherlands and Germany</li>
+    <li>🤖 Robotics and IoT</li>
 </ul>
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 <p>
-    I’m truly passionate about <strong>IoT</strong> and <strong>Robotics</strong>. Collaborating on projects, startups, and companies in these fields brings me joy and fulfillment. My goal is to craft solutions that push boundaries, improve lives, and inspire!
+    I’m truly passionate about <strong>IoT</strong> and <strong>Robotics</strong>. My goal is to craft solutions that push boundaries, improve lives, and inspire.
 </p>
 
 <p>
@@ -38,28 +38,29 @@
 
 <h3>🔧 Frontend Stack:</h3>
 <ul>
-    <li>React.js, Next.js, React Native</li>
-    <li>Svelte, SvelteKit</li>
-    <li>TypeScript, JavaScript (ES6+)</li>
-    <li>HTML5, CSS3, TailwindCSS</li>
-    <li>Webpack, Vite, Babel</li>
+    <li>React.js, Next.js, Svelte, SvelteKit, Qwik</li>
+    <li>React Native</li>
+    <li>S3, CDN, R3, Cloudflare</li>
+    <li>JavaScript, TypeScript</li>
+    <li>HTML, CSS, Tailwind, Shadcn...</li>
+    <li>Webpack, Vite</li>
     <li>Microservices Architecture</li>
 </ul>
 
 <h3>💾 Backend Stack:</h3>
 <ul>
-    <li>Node.js, Express.js</li>
+    <li>Node.js, Express.js, Java, Spring, Kotlin</li>
     <li>RESTful APIs, GraphQL</li>
-    <li>MongoDB, PostgreSQL</li>
+    <li>MongoDB, PostgreSQL, MySQL</li>
     <li>WebSockets, MQTT</li>
     <li>Docker</li>
 </ul>
 
 <h3>🤖 IoT and Robotics Stack:</h3>
 <ul>
-    <li>Arduino, ESP32, Raspberry Pi</li>
-    <li>IoT Protocols: MQTT, HTTP, WebSockets</li>
-    <li>Hardware Integration: Sensors, Actuators</li>
+    <li>Arduino, ESP, Raspberry, Custom Hardware</li>
+    <li>MQTT, HTTP, WebSockets</li>
+    <li>Sensors, Actuators</li>
     <li>Microcontrollers and Embedded Systems</li>
 </ul>
 
@@ -67,22 +68,23 @@
 
 <h3>🌟 My Portfolio:</h3>
 <ul>
-    <li><a target="_blank" href="https://terra.do">Terra.do</a> - Climate education platform</li>
-<!--     <li><a target="_blank" href="https://clipflip.video">ClipFlip</a> - Video marketing SaaS</li> -->
-    <li><a target="_blank" href="https://mobioffice.io">Mobioffice</a> - Business solutions SaaS</li>
+    <li><a target="_blank" href="https://terra.do">Terra.do</a> - Online climate education and community platform</li>
+    <li><a target="_blank" href="https://clipflip.video">ClipFlip</a> - Interactive video ad enhancement platform</li>
+    <li><a target="_blank" href="https://mobioffice.io">Mobioffice</a> - Digital operating system for streamlined business flows</li>
     <li><a target="_blank" href="https://kgirdharlal.com">Kgirdharlal</a> - Jewelry e-commerce store</li>
+    <li><a target="_blank" href="https://scarlettpanda.com">Scarlett Panda</a> - AI-generated personalized bedtime stories for kids</li>
 </ul>
 
 <h3>🚀 Featured Projects:</h3>
 <ul>
-    <li>Meds Recognition App</li>
+    <li><a target="_blank" href="https://zephyracharge.vercel.app">Zephyra</a> - booking electric vehicle charging stations app</li>
     <li>Electronics Education Platform</li>
 </ul>
 
 ---
 
 <p>
-    Feel free to explore my repositories, fork my projects, or connect with me to collaborate. Together, we can build something truly remarkable! 🚀
+    Feel free to explore my repositories, fork my projects, or connect with me to collaborate. 🚀
 </p>
 
 ---
