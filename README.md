@@ -78,6 +78,7 @@
 <h3>🚀 Featured Projects:</h3>
 <ul>
     <li><a target="_blank" href="https://zephyracharge.vercel.app">Zephyra</a> - booking electric vehicle charging stations app</li>
+    <li><a target="_blank" href="https://silicorsoft.com">SilicorSoft</a> - full-stack agency that blends senior engineering, conversion-focused design & growth marketing into one on-demand team</li>
     <li>Electronics Education Platform</li>
 </ul>
 
