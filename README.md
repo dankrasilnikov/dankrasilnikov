@@ -101,9 +101,6 @@
     <a target="_blank" href="https://web.telegram.org/k/#@d_karas">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a target="_blank" href="https://www.instagram.com/dan_krasilnikov/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
 </p>
 
 ---
