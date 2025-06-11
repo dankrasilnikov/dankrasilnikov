@@ -17,10 +17,10 @@
 
 ---
 
-<h2 align='left'>📅 Let’s Have a Call:</h2>
-<a target="_blank" href='https://calendly.com/krasilnikov-orchid/30min'>
+<h2 align='left'>📅 Let’s Have a Call: <a target="_blank" href='https://calendly.com/krasilnikov-orchid/30min'>
 <img src="https://img.shields.io/badge/Calendly-%230077B5.svg?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
-</a>
+</a></h2>
+
 
 ---
 
