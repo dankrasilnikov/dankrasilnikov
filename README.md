@@ -1,4 +1,4 @@
-<img src="./assets/warp.gif" height="50%">
+<img src="./assets/warp.gif" />
 <h1 align="center">Hey, I’m <a href="https://krasilnikov.info" target="_blank">Daniil</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/></h1>
 
