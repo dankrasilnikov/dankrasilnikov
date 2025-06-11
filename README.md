@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Software Engineer | IoT & Robotics Enthusiast</h3>
 
-<p align="center">
+<p>
     <em>"The future will belong to those who believe in the beauty of their dreams."</em>
 </p>
 
