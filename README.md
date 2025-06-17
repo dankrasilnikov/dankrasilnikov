@@ -38,7 +38,7 @@
 | **[ClipFlip](https://www.clipflip.video)** | Real-time video ads, latency < 40 ms |
 | **[Mobioffice](https://www.mobioffice.io)** | ‘Business OS’ 👉 from Figma to prod in 6 weeks |
 | **[Scarlett Panda](https://www.scarlettpanda.com)** | AI bedtime-stories, 1M+ stories served |
-| **[Zephyra](https://zephyracharge.vercel.app)** | EV-charger booking PWA, offline-first |
+| **[Zephyra](https://zephyracharge.vercel.app)** | EV-charger booking Platform |
 
 *(More in the links / repos — results beats clunky PDFs.)*
 
