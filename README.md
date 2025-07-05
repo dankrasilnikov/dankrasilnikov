@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I’m <a href="https://krasilnikov.info" target="_blank">Daniil</a>  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/></h1>
+<h1 align="center">Hey, I’m <a href="https://www.linkedin.com/in/dankrasilnikov/" target="_blank">Daniil</a> 
+👋</h1>
 
 <h3 align="center">Full-Stack Engineer • IoT & Robotics Tinkerer • Builder of “impossible” deadlines</h3>
 
